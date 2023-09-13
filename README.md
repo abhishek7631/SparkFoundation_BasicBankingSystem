@@ -1,9 +1,6 @@
 # Basic-Banking-System
 Project built for Sparks Foundation Internship
 
-# Demo
-https://eedemo.000webhostapp.com/index.php
-
 # AIM
 Create a simple dynamic website which has the following specs.</br>
  - Start with creating a dummy data in database for upto 10 customers.
@@ -17,9 +14,6 @@ Create a simple dynamic website which has the following specs.</br>
 -  No Login Page. No User Creation. Only transfer of money between
    multiple users.
    
--  Host the website at 000webhost, github.io, heroku app or any other free
-   hosting provider. Check in code in github.
-
 # Tech Stack
 -  **FRONT END**: HTML, CSS, JavaScript, Bootstrap
 -  **BACK END**: PHP
